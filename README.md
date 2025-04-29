@@ -9,4 +9,4 @@ A fully responsive calculator built with HTML, CSS, and JavaScript.
 - Clean UI with flex and grid layout
 
 ## Live Preview
-[Click here to view it live](#) <!-- (you can update with GitHub Pages link later) -->
+[Click here to view it live](https://tarkeshwar-yadav.github.io/calculator/) 
